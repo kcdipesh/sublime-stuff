@@ -1,4 +1,4 @@
-* Package Control https://sublime.wbond.net/
-* Emmet https://github.com/sergeche/emmet-sublime
-* Advanced New File https://github.com/skuroda/Sublime-AdvancedNewFile
-* Open URL https://github.com/noahcoad/open-url
+1. Package Control https://sublime.wbond.net/
+2. Emmet https://github.com/sergeche/emmet-sublime
+3. Advanced New File https://github.com/skuroda/Sublime-AdvancedNewFile
+4. Open URL https://github.com/noahcoad/open-url
