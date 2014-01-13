@@ -30,3 +30,7 @@ Must have packages
 25. ColorHighlighter https://github.com/Monnoroch/ColorHighlighter
 26. SublimeLinter https://github.com/SublimeLinter/SublimeLinter
 27. Git Gutter https://github.com/jisaacks/GitGutter
+28. PlainTasks https://github.com/aziz/PlainTasks
+29. Pretty JSON https://github.com/dzhibas/SublimePrettyJson
+30. Markdown Preview https://github.com/revolunet/sublimetext-markdown-preview
+31. Markdown Editing https://github.com/SublimeText-Markdown/MarkdownEditing/
