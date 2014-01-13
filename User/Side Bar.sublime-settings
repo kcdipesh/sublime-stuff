@@ -1,0 +1,6 @@
+{
+	"disable_send_to_trash": true,
+	"version": "setting no longer updated",
+  "close_affected_buffers_when_deleting_even_if_dirty" : true,
+  "disabled_menuitem_copy_dir_path": false
+}
