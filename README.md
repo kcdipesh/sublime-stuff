@@ -17,3 +17,16 @@ Must have packages
 12. SublimeCodeIntel https://github.com/SublimeCodeIntel/SublimeCodeIntel
 13. Git https://github.com/kemayo/sublime-text-git
 14. Gist https://github.com/condemil/Gist
+15. JsFormat https://github.com/jdc0589/JsFormat
+16. Placeholders https://github.com/mrmartineau/Placeholders
+17. Alignment https://github.com/wbond/sublime_alignment
+18. SublimeREPL https://github.com/wuub/SublimeREPL
+19. Nettuts-Fetch https://github.com/weslly/Nettuts-Fetch
+20. Tag https://github.com/SublimeText/Tag
+21. Stack Overflow Plugin https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin
+22. ChangeQuotes https://github.com/colinta/SublimeChangeQuotes
+23. LiveReload https://github.com/dz0ny/LiveReload-sublimetext2
+24. ColorPicker https://github.com/weslly/ColorPicker
+25. ColorHighlighter https://github.com/Monnoroch/ColorHighlighter
+26. SublimeLinter https://github.com/SublimeLinter/SublimeLinter
+27. Git Gutter https://github.com/jisaacks/GitGutter
