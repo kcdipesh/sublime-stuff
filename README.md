@@ -1,8 +1,8 @@
-sublime-stuff
+Sublime Stuff
 =============
 
 Must have packages
-----
+-----------------
 1. Package Control https://sublime.wbond.net/
 2. Emmet https://github.com/sergeche/emmet-sublime
 3. Advanced New File https://github.com/skuroda/Sublime-AdvancedNewFile
