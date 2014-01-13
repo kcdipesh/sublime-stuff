@@ -34,3 +34,5 @@ Must have packages
 29. Pretty JSON https://github.com/dzhibas/SublimePrettyJson
 30. Markdown Preview https://github.com/revolunet/sublimetext-markdown-preview
 31. Markdown Editing https://github.com/SublimeText-Markdown/MarkdownEditing/
+32. SyncedSideBar https://github.com/sobstel/SyncedSideBar
+33. ApplySyntax https://github.com/facelessuser/ApplySyntax
