@@ -37,3 +37,4 @@ Must have packages
 32. SyncedSideBar https://github.com/sobstel/SyncedSideBar
 33. ApplySyntax https://github.com/facelessuser/ApplySyntax
 34. Text Pastry https://github.com/duydao/Text-Pastry
+35. SQL Exec https://github.com/jum4/sublime-sqlexec
