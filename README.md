@@ -36,3 +36,4 @@ Must have packages
 31. Markdown Editing https://github.com/SublimeText-Markdown/MarkdownEditing/
 32. SyncedSideBar https://github.com/sobstel/SyncedSideBar
 33. ApplySyntax https://github.com/facelessuser/ApplySyntax
+34. Text Pastry https://github.com/duydao/Text-Pastry
