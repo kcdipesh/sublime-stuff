@@ -38,3 +38,4 @@ Must have packages
 33. ApplySyntax https://github.com/facelessuser/ApplySyntax
 34. Text Pastry https://github.com/duydao/Text-Pastry
 35. SQL Exec https://github.com/jum4/sublime-sqlexec
+36. Last Modified Indicator https://github.com/wag/SublimeLastModifiedIndicator
