@@ -1,0 +1,14 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"prototype": "https://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"
+	},
+	"packages":
+	{
+		"Wordpress_boilerplate": "https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate/zipball/master",
+		"child_theme_sample": "https://github.com/ernilambar/child-theme-sample/zipball/master",
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+		"sample_widget": "https://github.com/ernilambar/ns-sample-widget/zipball/master"
+	}
+}
