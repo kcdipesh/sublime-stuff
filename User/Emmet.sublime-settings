@@ -1,0 +1,11 @@
+{
+  "autodetect_xhtml": true,
+  "preferences": {
+    "filter.commentAfter": "<!-- <%= attr(\"id\", \"#\") %><%= attr(\"class\", \".\") %> -->"
+  },
+  "syntaxProfiles": {
+    "html": {
+      "filters": "html, c"
+    }
+  }
+}
