@@ -39,3 +39,4 @@ Must have packages
 34. Text Pastry https://github.com/duydao/Text-Pastry
 35. SQL Exec https://github.com/jum4/sublime-sqlexec
 36. Last Modified Indicator https://github.com/wag/SublimeLastModifiedIndicator
+37. Inc-Dec-Value https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value
